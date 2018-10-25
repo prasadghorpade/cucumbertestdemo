@@ -16,6 +16,7 @@
 #""
 ## (Comments)
 #Sample Feature Definition Template
+#Test Commit
 Feature: Open the spice Jet URL
 
   Scenario Outline: Verify that URL gets open and spice jet logo is present
