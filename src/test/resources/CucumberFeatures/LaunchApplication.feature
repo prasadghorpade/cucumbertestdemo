@@ -14,9 +14,9 @@
 #@ (Tags/Labels):To group Scenarios
 #<> (placeholder)
 #""
-## (Comments)
+## (Comments) testdhksdhksdhkas
 #Sample Feature Definition Template
-#Test Commit
+#Test Commit new test
 Feature: Open the spice Jet URL
 
   Scenario Outline: Verify that URL gets open and spice jet logo is present
